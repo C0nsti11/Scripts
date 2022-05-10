@@ -1,0 +1,10 @@
+{
+  "NotebookApp": {
+    "ip": "0.0.0.0",
+    "open_browser": false,
+    "notebook_dir": "/home/test/Cryptocurrency_Algorithmic_Trading/",
+    "allow_remote_access": true,
+    "allow_origin": "*",
+    "password": "argon2:$argon2id$v=19$m=10240,t=10,p=8$3bHQHosljV4UOPtYCIstPQ$yEVdQIoJAEwSGSNHtFkc1mGS2T5sybp4QWzC55UjRps"
+  }
+}
