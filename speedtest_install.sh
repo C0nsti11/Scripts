@@ -6,5 +6,7 @@
 # Example how to remove using apt-get
 # sudo apt-get remove speedtest-cli
 sudo apt-get install curl
+## System like kali whose os is not the list use the second curl command
 curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | sudo bash
+# curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | sudo os=debian dist=bullseye bash
 sudo apt-get install speedtest
